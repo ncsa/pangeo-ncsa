@@ -1,0 +1,7 @@
+dask==2025.2.0
+distributed==2025.2.0
+numpy
+pandas
+pyarrow==19.0.1
+fastparquet
+s3fs 
