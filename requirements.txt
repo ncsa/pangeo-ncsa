@@ -7,5 +7,7 @@ pyarrow==19.0.1
 fastparquet
 s3fs
 xarray[complete]>=2025.3.1
+pydantic>=2.11.3
+intake-esm
 # For dashboard
 bokeh>=3.1.0
